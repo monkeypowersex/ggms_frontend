@@ -53,7 +53,7 @@ nvm install 16.13.1
 ```
 ```shell
 nvm use 16.13.1
-``
+```
 
 ## Project setup
 ```
